@@ -2,7 +2,6 @@
 
  <div>
   <a href="https://github.com/akjaum">
-  <img src="https://github-readme-stats.vercel.app/api?username=akjaum&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akjaum&layout=compact&theme=dark"/>
 </div>
 
