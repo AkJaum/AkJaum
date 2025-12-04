@@ -1,10 +1,45 @@
-## Seja bem vindo ao meu perfil. Eu me chamo João Gabriel!
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
- <div>
-  <a href="https://github.com/akjaum">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akjaum&layout=compact&theme=dark"/>
-</div>
+## Sobre mim
 
-## Links:
-<div style="display: inline_block"><br>
-</div>
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Engenharia de Software na 42 Rio.
+- 💼 Procurando oportunidade de trabalho na área de Tecnologia.
+- 🌱 No mommento aprendendo mais sobre TypeScript, Python e IA.
+
+## Minhas Skills
+
+**Aplicações e dados**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/akjaum" title="Perfil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akjaum/)](https://www.linkedin.com/in/akjaum/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akjaum@gmail.com)](mailto:akjaum@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/akjaum?label=follow&style=social)](https://github.com/akjaum/)
