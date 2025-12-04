@@ -10,6 +10,7 @@
 ## Minhas Skills
 
 **Aplicações e dados**
+
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -33,10 +34,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 <br/>
-
-<a href="https://github.com/akjaum" title="Perfil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
