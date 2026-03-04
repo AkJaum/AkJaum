@@ -2,7 +2,6 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software na 42 Rio.
 - 💼 Procurando oportunidade de trabalho na área de Tecnologia.
 - 🌱 No mommento aprendendo mais sobre TypeScript, Python e IA.
