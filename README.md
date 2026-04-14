@@ -42,8 +42,8 @@
 
 ## 🔥 Featured Projects
 
-- 🔗 Termina_folio - This is my portfolio and I invite you to explore it. You will not regret it!
-- 🔗 Python_Piscine - My first steps programming in python through logical exercises.
+- 🔗 <a href="https://github.com/AkJaum/terminal-portfolio">terminal-portfolio</a> - This is my portfolio and I invite you to explore it. You will not regret it!
+- 🔗 <a href="https://github.com/AkJaum/python_piscine">Python_Piscine</a> - My first steps programming in python through logical exercises.
 
 ---
 
@@ -51,4 +51,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akjaum/)
 [![Email](https://img.shields.io/badge/-akjaum@gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white)](mailto:akjaum@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/akjaum?label=follow&style=social)](https://github.com/akjaum/)
