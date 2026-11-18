@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=akjaum&color=006bed)
 
-🎓 Software Engineering student at 42 Rio  
+# Hi, I'm João Gabriel! 👋
+
+🎓 Software Engineering student at 42 Rio
+🤖 Full-Stack Developer
 🌱 Currently learning more about AI and systems programming  
 
 ---
