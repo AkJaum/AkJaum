@@ -42,5 +42,6 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joaodev-portfolio-nine.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akjaum/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akjaum)
-[![Email](https://img.shields.io/badge/-akjaum@gmail.com-002?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akjaum@gmail.com)
+[![Email](https://img.shields.io/badge/-akjaum@gmail.com-015?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akjaum@gmail.com)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akjaum&layout=compact&theme=radical&count_private=true)](https://github.com/akjaum)
