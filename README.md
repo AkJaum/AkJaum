@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=akjaum&color=006bed)
 
 🎓 Software Engineering student at 42 Rio  
-💼 Looking for opportunities in Tech  
-🌱 Currently learning more about TypeScript, Python, AI and systems programming  
+🌱 Currently learning more about AI and systems programming  
 
 ---
 
@@ -37,13 +36,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
----
-
-## 🔥 Featured Projects
-
-- 🔗 <a href="https://github.com/AkJaum/terminal-portfolio">terminal-portfolio</a> - This is my portfolio and I invite you to explore it. You will not regret it!
-- 🔗 <a href="https://github.com/AkJaum/python_piscine">Python_Piscine</a> - My first steps programming in python through logical exercises.
 
 ---
 
