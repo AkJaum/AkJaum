@@ -8,8 +8,6 @@
 
 🌱 Currently learning more about AI and systems programming  
 
----
-
 ## 🧠 Skills
 
 ### 📋 Languages
@@ -39,8 +37,6 @@
 
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
 
 ## 📫 Contact Me
 
